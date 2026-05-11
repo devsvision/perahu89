@@ -1,0 +1,17 @@
+{
+  "name": "PERAHU 89 Guest House",
+  "short_name": "PERAHU 89",
+  "description": "Affordable guest house in Kerobokan, Bali near Canggu and Seminyak.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fbfaf6",
+  "theme_color": "#163b34",
+  "icons": [
+    {
+      "src": "assets/perahu89-logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
